@@ -1,4 +1,4 @@
-# Character-Recognition
+# Optical character recognition in ppm images
 Program implements matched spatial filtering (MSF) to select characters from a given ppm image. The program outputs true and false positives and negatives to verify the accuracy of character recognition against a ground truth file.
 
 
